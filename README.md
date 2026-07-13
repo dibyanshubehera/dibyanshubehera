@@ -1,61 +1,155 @@
-<h1 align="center">Hey, I'm Dibyansu 👋</h1>
+<div align="center">
+
+# 🛡️ DIBYANSU BEHERA
+
+### Security Operations Center (SOC) Analyst
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Threat+Detection;Threat+Hunting;Detection+Engineering;Incident+Response;Splunk+%7C+Zeek+%7C+Wireshark;Windows+Event+Log+Analysis;Python+Automation;Blue+Team+Operations" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/dibyansu-behera">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dibyanshubehera75@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dibyanshubehera&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💻 About Me
+
+I'm **Dibyansu Behera**, an aspiring **Security Operations Center (SOC) Analyst** with a strong passion for Blue Team operations, threat hunting, incident response, and detection engineering.
+
+I enjoy building realistic cybersecurity labs that simulate enterprise environments and allow me to investigate attacks from the perspective of a SOC analyst.
+
+Currently I am expanding my skills in:
+
+- Threat Detection
+- Detection Engineering
+- Incident Response
+- Windows Security Monitoring
+- Active Directory Security
+- SIEM Engineering
+- Network Traffic Analysis
+- Python Automation
+
+---
+
+# 🎯 Current Mission
+
+```diff
++ Build Enterprise SOC Labs
+
++ Master Splunk Enterprise
+
++ Detection Engineering
+
++ Active Directory Security
+
++ Microsoft Sentinel
+
++ Threat Hunting
+
++ Security Automation using Python
+```
+
+---
+
+# 🛡️ SOC Arsenal
+
+| Category | Technologies |
+|------------|-----------------------------|
+| SIEM | Splunk Enterprise • Wazuh |
+| Detection | Zeek IDS • Sysmon |
+| Log Analysis | Windows Event Logs |
+| Network Analysis | Wireshark • TCP/IP • Nmap |
+| Directory Services | Active Directory |
+| Frameworks | MITRE ATT&CK • Cyber Kill Chain |
+| Scripting | Python • PowerShell • Bash |
+| Virtualization | VMware Workstation |
+| Operating Systems | Windows • Kali Linux • Ubuntu |
+
+---
+
+# 🚨 Featured SOC Investigations
+
+Coming Soon...
+
+- Data Exfiltration Detection using Zeek IDS
+- Windows RDP Brute Force Detection
+- Threat Hunting using Splunk
+- Network Attack Detection using Wireshark
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibyanshubehera&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshubehera&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dibyanshubehera&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dibyanshubehera&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+- IBM – Introduction to Cybersecurity Tools & Cyberattacks
+- IBM SkillsBuild – Artificial Intelligence
+- CyberDojo – Cybersecurity Internship
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <b>CSE Student → Aspiring SOC Analyst</b><br>
-  Threat Detection · Incident Response · Blue Team
+
+<a href="mailto:dibyanshubehera75@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dibyansu-behera">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-SOC%20Analyst-1D9E75?style=flat"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0F6E56?style=flat"/>
-  <img src="https://img.shields.io/badge/Location-Odisha%2C%20India-378ADD?style=flat"/>
-</p>
-
 ---
 
-## 🔍 About Me
+<div align="center">
 
-I'm a CSE student building hands-on SOC analyst skills through
-real-world attack simulation and detection engineering.
-My work focuses on the full attack kill chain — from recon to
-post-exploitation — and writing detection logic in Splunk SPL.
+### "Every alert deserves investigation. Every investigation deserves evidence."
 
-- 🛡️ Practicing on custom VMware labs (Kali Linux attacker, Windows 10 victim)
-- 📊 Building detections mapped to the **MITRE ATT&CK** framework
-- 🔧 Tools: Wireshark · Splunk · Nmap · Python · Active Directory
-- 🎯 Target role: **SOC Analyst (Tier 1 / Tier 2)**
+⭐ Thanks for visiting my profile ⭐
 
----
-
-## 🛠️ Tech Stack
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=windows&logoColor=white)
-
----
-
-## 🧪 Featured Projects
-
-### 🔴 Network Attack Detection & Incident Analysis
-> Full kill chain simulation — detected and analyzed using Wireshark + Splunk SPL
-
-| Phase | Technique | MITRE ID |
-|-------|-----------|----------|
-| Recon | ICMP sweep + Nmap scan | T1046 |
-| Enumeration | Service version scan | T1595.002 |
-| Credential Attack | Hydra RDP brute force | T1110.001 |
-
----
-
-### 🤖 Mini AI-SOC: Intelligent Threat Detection Engine *(Coming Soon)*
-> AI-powered detection and automated response pipeline
-
----
-
-<p align="center">
-  <i>"The best defense is understanding the offense."</i>
-</p>
+</div>
