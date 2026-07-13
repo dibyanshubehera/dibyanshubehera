@@ -1,12 +1,16 @@
 <div align="center">
 
-# 🛡️ DIBYANSU BEHERA
-
-### Security Operations Center (SOC) Analyst
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Threat+Detection;Threat+Hunting;Detection+Engineering;Incident+Response;Splunk+%7C+Zeek+%7C+Wireshark;Windows+Event+Log+Analysis;Python+Automation;Blue+Team+Operations" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=DIBYANSU+BEHERA;Security+Operations+Center+Analyst;Threat+Hunter+%7C+Detection+Engineer;Blue+Team+Enthusiast" alt="Typing SVG"/>
 
 <br>
+
+<p>
+<img src="https://img.shields.io/badge/SOC-Analyst-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue-Team-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Zeek-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+</p>
 
 <a href="https://www.linkedin.com/in/dibyansu-behera">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,139 +21,101 @@
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=dibyanshubehera&style=for-the-badge&color=blue"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dibyanshubehera&style=for-the-badge&color=0E75B6"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+<table>
+<tr>
 
-I'm **Dibyansu Behera**, an aspiring **Security Operations Center (SOC) Analyst** with a strong passion for Blue Team operations, threat hunting, incident response, and detection engineering.
+<td width="60%">
 
-I enjoy building realistic cybersecurity labs that simulate enterprise environments and allow me to investigate attacks from the perspective of a SOC analyst.
+# 👋 About Me
 
-Currently I am expanding my skills in:
+I'm **Dibyansu Behera**, an aspiring **Security Operations Center (SOC) Analyst** with a strong focus on:
 
-- Threat Detection
-- Detection Engineering
-- Incident Response
-- Windows Security Monitoring
-- Active Directory Security
-- SIEM Engineering
-- Network Traffic Analysis
-- Python Automation
+- 🛡️ Threat Detection
+- 🔍 Threat Hunting
+- 📊 SIEM Operations
+- 🚨 Incident Response
+- 🪟 Windows Security Monitoring
+- 🌐 Network Traffic Analysis
+- ⚙️ Detection Engineering
+- 🐍 Security Automation using Python
 
----
+I enjoy building enterprise-style cybersecurity labs to simulate real-world attack scenarios, investigate security events, and develop practical detection techniques.
 
-# 🎯 Current Mission
+</td>
 
-```diff
-+ Build Enterprise SOC Labs
+<td width="40%">
 
-+ Master Splunk Enterprise
+## 🎯 Current Focus
 
-+ Detection Engineering
+```text
+✓ Splunk Enterprise
 
-+ Active Directory Security
+✓ Zeek IDS
 
-+ Microsoft Sentinel
+✓ Windows Event Logs
 
-+ Threat Hunting
+✓ Active Directory
 
-+ Security Automation using Python
+✓ MITRE ATT&CK
+
+✓ Detection Engineering
+
+✓ Python Automation
 ```
 
----
+</td>
 
-# 🛡️ SOC Arsenal
-
-| Category | Technologies |
-|------------|-----------------------------|
-| SIEM | Splunk Enterprise • Wazuh |
-| Detection | Zeek IDS • Sysmon |
-| Log Analysis | Windows Event Logs |
-| Network Analysis | Wireshark • TCP/IP • Nmap |
-| Directory Services | Active Directory |
-| Frameworks | MITRE ATT&CK • Cyber Kill Chain |
-| Scripting | Python • PowerShell • Bash |
-| Virtualization | VMware Workstation |
-| Operating Systems | Windows • Kali Linux • Ubuntu |
+</tr>
+</table>
 
 ---
-
-# 🚨 Featured SOC Investigations
-
-Coming Soon...
-
-- Data Exfiltration Detection using Zeek IDS
-- Windows RDP Brute Force Detection
-- Threat Hunting using Splunk
-- Network Attack Detection using Wireshark
-
----
-
-# 📈 GitHub Statistics
+# 🛡️ SOC Command Center
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibyanshubehera&show_icons=true&theme=tokyonight"/>
+| 🖥️ Component | 🚀 Status |
+|:------------|:----------|
+| 🎯 Target Role | SOC Analyst |
+| 🔍 Current Focus | Threat Detection & Incident Response |
+| 🛡️ SIEM | Splunk Enterprise |
+| 📡 Network Monitoring | Zeek IDS |
+| 🌐 Packet Analysis | Wireshark |
+| 🪟 Endpoint Monitoring | Windows Security Event Logs |
+| 🏢 Directory Services | Active Directory |
+| 🐍 Automation | Python |
+| ⚔️ Security Framework | MITRE ATT&CK |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshubehera&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+SOC STATUS
+
+🟢 Monitoring
+
+🟢 Learning
+
+🟢 Building Labs
+
+🟢 Detection Engineering
+
+🟢 Threat Hunting
+```
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dibyanshubehera&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dibyanshubehera&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📜 Certifications
-
-- IBM – Introduction to Cybersecurity Tools & Cyberattacks
-- IBM SkillsBuild – Artificial Intelligence
-- CyberDojo – Cybersecurity Internship
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:dibyanshubehera75@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dibyansu-behera">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### "Every alert deserves investigation. Every investigation deserves evidence."
-
-⭐ Thanks for visiting my profile ⭐
-
-</div>
