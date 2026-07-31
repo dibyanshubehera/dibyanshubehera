@@ -195,7 +195,7 @@ Git & GitHub
 - Authentication Monitoring
 - Incident Detection
 
-**Repository:** *(Add your repository link here after you upload it.)*
+**Repository:** *(Adding Soon)*
 
 ---
 
@@ -217,7 +217,7 @@ Git & GitHub
 - IOC Analysis
 - Log Analysis
 
-**Repository:** *(Add your repository link here after you upload it.)*
+**Repository:** *(Adding Soon)*
 
 ---
 
