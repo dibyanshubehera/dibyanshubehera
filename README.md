@@ -195,7 +195,7 @@ Git & GitHub
 - Authentication Monitoring
 - Incident Detection
 
-**Repository:** *(Adding Soon...)*
+**Repository:** *(https://github.com/dibyanshubehera/Brute-Force-Attack-Detection-Using-Windows-Security-Event-Logs)*
 
 ---
 
