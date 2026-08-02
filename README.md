@@ -195,7 +195,7 @@ Git & GitHub
 - Authentication Monitoring
 - Incident Detection
 
-**Repository:** *(Adding Soon)*
+**Repository:** *(Adding Soon...)*
 
 ---
 
@@ -217,7 +217,7 @@ Git & GitHub
 - IOC Analysis
 - Log Analysis
 
-**Repository:** *(Adding Soon)*
+**Repository:** *(https://github.com/dibyanshubehera/Threat-Hunting-and-Security-Analysis-using-Splunk-on-UNSW-NB15-Dataset)*
 
 ---
 
